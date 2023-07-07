@@ -1,6 +1,6 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Elias Monteiro</h1>
 
-- 🔥 Web Developer 
+- 🔥 Developer Front-End
 
 - 💬 Pergunte-me sobre: **JavaScript, HTML, CSS, Bootstrap, React.JS**
 
