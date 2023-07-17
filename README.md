@@ -6,7 +6,6 @@
 
 - 👨‍💻 Cursando Analise e Desenvolvimento de Sistemas
 
-- 📫 Contato: eliasmonteiro2017@outlook.com
 
 <br>
 
