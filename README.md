@@ -10,9 +10,7 @@
 
 ##
 
-#### Estou aprendendo sobre:
-[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+#### Trabalho com:
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
@@ -40,7 +38,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQHKisxvejLuXw/company-logo_100_100/0/1631344503204?e=1709164800&v=beta&t=tU6uzJK7nfOn1bYUF3lTaIzz2iKNVS7UypKMvE4fSsc"/>](https://alest.com.br/)
 **Strategy and Innovation Analyst** \
 [**Alest**](https://alest.com.br/) • Estágio \
-Competências: `Desenvolvimento Estratégico`, `Ferramentas Low Code`, `Metodologias Ágeis`, 
+Competências: `Desenvolvimento Estratégico`, `Google Cloud Plataform`, `Metodologias Ágeis`, 
 <br/> `Desenvolvimento de Interfaces`, `Integração e Consumo de API`, `Desenvolvimento Backend`
 
 ##
