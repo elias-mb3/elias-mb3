@@ -57,6 +57,5 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/monteiroelias/)
 ##
 
 #### Estatísticas:
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elias-mb3&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=elias-mb3&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
-[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=elias-mb3&amp;theme=radical"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elias-mb3&layout=compact&langs_count=7&theme=dark"/>](https://github.com/)
+[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=elias-mb3&amp;theme=dark"/>](https://github.com/)
