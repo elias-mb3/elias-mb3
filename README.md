@@ -22,7 +22,6 @@
 #### Ferramentas que uso:
 [<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
-[<img height="48px" width="48px" alt="Icone docker" src="https://skillicons.dev/icons?i=docker"/>](https://nodejs.org)
 [<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=gcp"/>](https://nodejs.org)
 
 ##
