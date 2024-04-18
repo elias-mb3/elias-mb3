@@ -1,32 +1,38 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## Fala, Devs!! 👋
 ### O meu nome é Elias, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🇧🇷  Sou de São Paulo/SP, Brasil
+- 👾  Sou de São Paulo/SP, Brasil
 - 🕹️ Apaixonado por Games e Tecnologia
-- 🧠 Estudante de Analise e Desenvolvimento de Sistemas na UNASP
-- 🏦 Atualmente trabalho como Estágiario em Desenvolvimento na Alest, uma Emprese de Consultoria de Transformação Digital de São Paulo/SP
+- 🧠 Estudante de Analise e Desenvolvimento de Sistemas 3° Semestre
+- 🏦 Atualmente como Estágiario em Desenvolvimento na Alest Consultoria
 
 ##
 
-#### Trabalho com:
+#### Trabalho atualment com:
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
 [<img height="48px" width="48px" alt="Icone express" src="https://skillicons.dev/icons?i=express"/>](https://nodejs.org)
 [<img height="48px" width="48px" alt="Icone mongodb	" src="https://skillicons.dev/icons?i=mongodb"/>](https://nodejs.org)
+[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=jest"/>]()
 
-##
-
-#### Ferramentas que uso:
+#### Minhas Ferramentas
 [<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=gcp"/>](https://nodejs.org)
+<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=firebase"/>
+<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=ubuntu"/>
+<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=vscode"/>
+
+#### Front-End
+[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=bootstrap"/>]()
+[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=css"/>]()
+[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=html"/>]()
 
 ##
 
-#### Como entrar em contato comigo:
+### Como entrar em contato comigo:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/monteiroelias/)
 
 ##
@@ -34,11 +40,11 @@
 #### Experiência Profissional:
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQHKisxvejLuXw/company-logo_100_100/0/1631344503204?e=1709164800&v=beta&t=tU6uzJK7nfOn1bYUF3lTaIzz2iKNVS7UypKMvE4fSsc"/>](https://alest.com.br/)
-**Strategy and Innovation Analyst** \
-[**Alest**](https://alest.com.br/) • Estágio \
-Competências: `Desenvolvimento Estratégico`, `Google Cloud Plataform`, `Metodologias Ágeis`, 
-<br/> `Desenvolvimento de Interfaces`, `Integração e Consumo de API`, `Desenvolvimento Backend`
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9iGhD6F-34TbUGWcZIk4cOKWBYdM_NghoAI4t3pYww&s"/>](https://alest.com.br/)
+**Consultoria e Inovação Digital** \
+[**Alest**](https://alest.com.br/) • Desenvolvedor de Software \
+Competências: `NodeJS`, `Google Cloud Plataform`, `React`, `TypeScript`,
+<br/> `GraphQL`, `Rest API`, `Firebase`, `P.O.O`
 
 ##
 
@@ -46,12 +52,9 @@ Competências: `Desenvolvimento Estratégico`, `Google Cloud Plataform`, `Metodo
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLiuc1FTo9FSH-_ZV6PgXc86RVoQidV8vF5wrllBvH0Q&s"/>](https://unasp.br/)
-**Software Developer** \
-[**Unasp**](https://unasp.br/) \
-Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
-<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `MongoDB`
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/monteiroelias/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+**Analise e Desenvolvimento e Sistemas** \
+[**UNASP**](https://unasp.br/) • 3º Semestre \
+Linguagens & Tecnologias - Front-end: `Python`, `Modelagem de Dados`, `SQL`, `Orientação a Objetos`
 
 ##
 
