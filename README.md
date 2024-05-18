@@ -10,8 +10,6 @@
 ##
 
 #### Trabalho atualment com:
-[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
-[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
 [<img height="48px" width="48px" alt="Icone express" src="https://skillicons.dev/icons?i=express"/>](https://nodejs.org)
 [<img height="48px" width="48px" alt="Icone mongodb	" src="https://skillicons.dev/icons?i=mongodb"/>](https://nodejs.org)
@@ -26,6 +24,7 @@
 <img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=vscode"/>
 
 #### Front-End
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=bootstrap"/>]()
 [<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=css"/>]()
 [<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=html"/>]()
@@ -41,8 +40,8 @@
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9iGhD6F-34TbUGWcZIk4cOKWBYdM_NghoAI4t3pYww&s"/>](https://alest.com.br/)
-**Consultoria e Inovação Digital** \
-[**Alest**](https://alest.com.br/) • Desenvolvedor de Software \
+**Estágio em Desenvolvimento** \
+[**Alest**](https://alest.com.br/) • Estágio \
 Competências: `NodeJS`, `Google Cloud Plataform`, `React`, `TypeScript`,
 <br/> `GraphQL`, `Rest API`, `Firebase`, `P.O.O`
 
