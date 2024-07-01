@@ -5,7 +5,7 @@
 - 👾  Sou de São Paulo/SP, Brasil
 - 🕹️ Apaixonado por Games e Tecnologia
 - 🧠 Estudante de Analise e Desenvolvimento de Sistemas 3° Semestre
-- 🏦 Atualmente como Estágiario em Desenvolvimento na Alest Consultoria
+- 🏦 Atualmente como Backend Developer na Alest Consultoria
 
 ##
 
