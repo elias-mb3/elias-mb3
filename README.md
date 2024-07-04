@@ -10,16 +10,19 @@
 ##
 
 #### Trabalho atualment com:
-[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
-[<img height="48px" width="48px" alt="Icone express" src="https://skillicons.dev/icons?i=express"/>](https://nodejs.org)
-[<img height="48px" width="48px" alt="Icone mongodb	" src="https://skillicons.dev/icons?i=mongodb"/>](https://nodejs.org)
-[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=jest"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=ts"/>]()
+[<img height="48px" width="48px" alt="Icone express" src="https://skillicons.dev/icons?i=jest"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=gcp"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=firebase"/>]()
+
 
 #### Minhas Ferramentas
-[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
-[<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
-[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=gcp"/>](https://nodejs.org)
-<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=firebase"/>
+[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>]()
+<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>
+<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=docker"/>
+<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=postman"/>
+<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=vercel"/>
 <img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=ubuntu"/>
 <img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=vscode"/>
 
@@ -29,7 +32,15 @@
 [<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=css"/>]()
 [<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=html"/>]()
 
-##
+
+#### Banco de Dados
+[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=mongodb"/>]()
+[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=postgres"/>]()
+[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=prisma"/>]()
+
+#### Back-End
+[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=express"/>]()
+[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=postgres"/>]()
 
 ### Como entrar em contato comigo:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/monteiroelias/)
