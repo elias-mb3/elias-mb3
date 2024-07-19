@@ -15,16 +15,7 @@
 [<img height="48px" width="48px" alt="Icone express" src="https://skillicons.dev/icons?i=jest"/>]()
 [<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=gcp"/>]()
 [<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=firebase"/>]()
-
-
-#### Minhas Ferramentas
-[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>]()
-<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>
-<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=docker"/>
-<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=postman"/>
-<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=vercel"/>
-<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=ubuntu"/>
-<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=vscode"/>
+[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=express"/>]()
 
 #### Front-End
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
@@ -38,9 +29,15 @@
 [<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=postgres"/>]()
 [<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=prisma"/>]()
 
-#### Back-End
-[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=express"/>]()
-[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=postgres"/>]()
+
+#### Minhas Ferramentas
+[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>]()
+<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>
+<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=docker"/>
+<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=postman"/>
+<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=vercel"/>
+<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=ubuntu"/>
+<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=vscode"/>
 
 ### Como entrar em contato comigo:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/monteiroelias/)
