@@ -27,7 +27,6 @@
 #### Banco de Dados
 [<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=mongodb"/>]()
 [<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=postgres"/>]()
-[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=prisma"/>]()
 
 
 #### Minhas Ferramentas
@@ -49,7 +48,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9iGhD6F-34TbUGWcZIk4cOKWBYdM_NghoAI4t3pYww&s"/>](https://alest.com.br/)
 **Desenvolvedor Backend** \
-[**Alest**](https://alest.com.br/) • 8 meses \
+[**Alest**](https://alest.com.br/) • 10 meses \
 Competências: `NodeJS`, `Google Cloud Plataform`, `React`, `TypeScript`,
 <br/> `GraphQL`, `Rest API`, `Firebase`, `P.O.O`
 
