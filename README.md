@@ -48,6 +48,12 @@
 [<img height="48px" width="48px" alt="Cloud Scheduler" src="https://icon.icepanel.io/GCP/svg/Cloud-Scheduler.svg"/>]() 
 [<img height="48px" width="48px" alt="Cloud Storage" src="https://icon.icepanel.io/GCP/svg/Cloud-Storage.svg"/>]()
 [<img height="48px" width="48px" alt="Cloud SQL" src="https://icon.icepanel.io/GCP/svg/Cloud-SQL.svg"/>]()
+[<img height="48px" width="48px" alt="Dialogflow" src="https://icon.icepanel.io/GCP/svg/Dialogflow.svg"/>]()
+[<img height="48px" width="48px" alt="Firestore" src="https://icon.icepanel.io/GCP/svg/Firestore.svg"/>]()
+[<img height="48px" width="48px" alt="IAM" src="https://icon.icepanel.io/GCP/svg/Identity-And-Access-Management.svg"/>]()
+[<img height="48px" width="48px" alt="Secret Manager" src="https://icon.icepanel.io/GCP/svg/Secret-Manager.svg"/>]()
+[<img height="48px" width="48px" alt="Vertex AI" src="https://icon.icepanel.io/GCP/svg/Vertex-AI.svg"/>]()
+
 
 ### Como entrar em contato comigo:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/monteiroelias/)
