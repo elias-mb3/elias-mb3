@@ -44,7 +44,10 @@
 [<img height="48px" width="48px" alt="Cloud API Gateway" src="https://icon.icepanel.io/GCP/svg/Cloud-API-Gateway.svg"/>]()
 [<img height="48px" width="48px" alt="Cloud Functions" src="https://icon.icepanel.io/GCP/svg/Cloud-Functions.svg"/>]() 
 [<img height="48px" width="48px" alt="Cloud Logging" src="https://icon.icepanel.io/GCP/svg/Cloud-Logging.svg"/>]() 
-
+[<img height="48px" width="48px" alt="Cloud Run" src="https://icon.icepanel.io/GCP/svg/Cloud-Run.svg"/>]() 
+[<img height="48px" width="48px" alt="Cloud Scheduler" src="https://icon.icepanel.io/GCP/svg/Cloud-Scheduler.svg"/>]() 
+[<img height="48px" width="48px" alt="Cloud Storage" src="https://icon.icepanel.io/GCP/svg/Cloud-Storage.svg"/>]()
+[<img height="48px" width="48px" alt="Cloud SQL" src="https://icon.icepanel.io/GCP/svg/Cloud-SQL.svg"/>]()
 
 ### Como entrar em contato comigo:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/monteiroelias/)
