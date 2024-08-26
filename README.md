@@ -40,7 +40,12 @@
 
 
 ### Google Cloud Plataform
-<img height="48px" width="48px" alt="Big Query" src="https://icon.icepanel.io/GCP/svg/BigQuery.svg"/> 
+[<img height="48px" width="48px" alt="Big Query" src="https://icon.icepanel.io/GCP/svg/BigQuery.svg"/>]()
+[<img height="48px" width="48px" alt="Cloud API Gateway" src="https://icon.icepanel.io/GCP/svg/Cloud-API-Gateway.svg"/>]()
+[<img height="48px" width="48px" alt="Cloud Functions" src="https://icon.icepanel.io/GCP/svg/Cloud-Functions.svg"/>]() 
+[<img height="48px" width="48px" alt="Cloud Logging" src="https://icon.icepanel.io/GCP/svg/Cloud-Logging.svg"/>]() 
+
+
 ### Como entrar em contato comigo:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/monteiroelias/)
 
