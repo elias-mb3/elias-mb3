@@ -38,6 +38,9 @@
 <img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=ubuntu"/>
 <img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=vscode"/>
 
+
+### Google Cloud Plataform
+<img height="48px" width="48px" alt="Big Query" src="https://icon.icepanel.io/GCP/svg/BigQuery.svg"/> 
 ### Como entrar em contato comigo:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/monteiroelias/)
 
