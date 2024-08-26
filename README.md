@@ -30,8 +30,7 @@
 
 
 #### Minhas Ferramentas
-[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>]()
-<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>
+[<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>]()
 <img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=docker"/>
 <img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=postman"/>
 <img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=vercel"/>
