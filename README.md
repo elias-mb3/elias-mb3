@@ -5,7 +5,7 @@
 - 👾  Sou de São Paulo/SP, Brasil
 - 🕹️ Apaixonado por Games e Tecnologia
 - 🧠 Estudante de Analise e Desenvolvimento de Sistemas 3° Semestre
-- 🏦 Atualmente como Backend Developer na Alest Consultoria
+- 🏦 Atualmente como Estágio em T.I no Banco Bradesco
 
 ##
 
@@ -60,11 +60,18 @@
 ##
 
 #### Experiência Profissional:
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:<br>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F2400%2F1*fVjiPN2BfTEulmJaVhq6kA.png&f=1&nofb=1&ipt=93242efbc779a63202ca69e04c359b02f23e51d0d783f161a513ddd6ce119869&ipo=images"/>](https://alest.com.br/)
+**Estágio em T.I** \
+[**Banco Bradesco**](https://alest.com.br/) • Setembro 2024 - Atual \
+Competências: `TypeScript`, `Microsoft Office`, `Microsoft Azure`, `OpenAI GPT`
+
+<br>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9iGhD6F-34TbUGWcZIk4cOKWBYdM_NghoAI4t3pYww&s"/>](https://alest.com.br/)
 **Desenvolvedor Backend** \
-[**Alest**](https://alest.com.br/) • 10 meses \
+[**Alest**](https://alest.com.br/) • Dezembro 2023 - Agosto 2024 \
 Competências: `NodeJS`, `Google Cloud Plataform`, `React`, `TypeScript`,
 <br/> `GraphQL`, `Rest API`, `Firebase`, `P.O.O`
 
