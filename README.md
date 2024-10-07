@@ -10,12 +10,10 @@
 ##
 
 #### Trabalho atualment com:
-[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>]()
-[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=ts"/>]()
-[<img height="48px" width="48px" alt="Icone express" src="https://skillicons.dev/icons?i=jest"/>]()
-[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=gcp"/>]()
-[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=firebase"/>]()
-[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=express"/>]()
+[<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>]()
+[<img height="48px" width="48px" alt="Icone Azure" src="https://skillicons.dev/icons?i=azure"/>]()
+[<img height="48px" width="48px" alt="Icone Typescript" src="https://skillicons.dev/icons?i=ts"/>]()
+
 
 #### Front-End
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
@@ -23,6 +21,12 @@
 [<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=css"/>]()
 [<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=html"/>]()
 
+#### Back-End
+
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=ts"/>]()
+[<img height="48px" width="48px" alt="Icone express" src="https://skillicons.dev/icons?i=jest"/>]()
+[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=express"/>]()
 
 #### Banco de Dados
 [<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=mongodb"/>]()
@@ -33,26 +37,15 @@
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>]()
 <img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=docker"/>
 <img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=postman"/>
-<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=vercel"/>
 <img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=ubuntu"/>
 <img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=vscode"/>
 
 
-### Google Cloud Plataform
-[<img height="48px" width="48px" alt="Big Query" src="https://icon.icepanel.io/GCP/svg/BigQuery.svg"/>]()
-[<img height="48px" width="48px" alt="Cloud API Gateway" src="https://icon.icepanel.io/GCP/svg/Cloud-API-Gateway.svg"/>]()
-[<img height="48px" width="48px" alt="Cloud Functions" src="https://icon.icepanel.io/GCP/svg/Cloud-Functions.svg"/>]() 
-[<img height="48px" width="48px" alt="Cloud Logging" src="https://icon.icepanel.io/GCP/svg/Cloud-Logging.svg"/>]() 
-[<img height="48px" width="48px" alt="Cloud Run" src="https://icon.icepanel.io/GCP/svg/Cloud-Run.svg"/>]() 
-[<img height="48px" width="48px" alt="Cloud Scheduler" src="https://icon.icepanel.io/GCP/svg/Cloud-Scheduler.svg"/>]() 
-[<img height="48px" width="48px" alt="Cloud Storage" src="https://icon.icepanel.io/GCP/svg/Cloud-Storage.svg"/>]()
-[<img height="48px" width="48px" alt="Cloud SQL" src="https://icon.icepanel.io/GCP/svg/Cloud-SQL.svg"/>]()
-[<img height="48px" width="48px" alt="Dialogflow" src="https://icon.icepanel.io/GCP/svg/Dialogflow.svg"/>]()
-[<img height="48px" width="48px" alt="Firestore" src="https://icon.icepanel.io/GCP/svg/Firestore.svg"/>]()
-[<img height="48px" width="48px" alt="IAM" src="https://icon.icepanel.io/GCP/svg/Identity-And-Access-Management.svg"/>]()
-[<img height="48px" width="48px" alt="Secret Manager" src="https://icon.icepanel.io/GCP/svg/Secret-Manager.svg"/>]()
-[<img height="48px" width="48px" alt="Vertex AI" src="https://icon.icepanel.io/GCP/svg/Vertex-AI.svg"/>]()
+### Cloud
 
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=gcp"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=firebase"/>]()
+[<img height="48px" width="48px" alt="Icone Azure" src="https://skillicons.dev/icons?i=azure"/>]()
 
 ### Como entrar em contato comigo:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/monteiroelias/)
