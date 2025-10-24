@@ -14,7 +14,6 @@ My work focuses on delivering robust, efficient, and scalable solutions for the 
 <h2>🧑‍🎓 Academic Background</h2>
 <ul>
   <li>System Development - UNASP (2023-2026)</li>
-  <li>Introduction to Computer Science - Harvard (2025)</li>
   <li>Microsoft Fundamentals - AZ-900 (2025)</li>
 </ul>
 <div align="left">
