@@ -49,7 +49,7 @@ My work focuses on delivering robust, efficient, and scalable solutions for the 
 
   <!-- Card 1 -->
   <a href="https://www.portfolioelias.com" style="text-decoration:none; color:inherit;">
-    <div style="width:260px; border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
+    <div style="width:200px; border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img 
         src="./assets/portfolio.jpeg" 
         alt="Portfolio Elias" 
@@ -63,7 +63,7 @@ My work focuses on delivering robust, efficient, and scalable solutions for the 
 
   <!-- Card 2 -->
   <a href="https://www.portfolioelias.com" style="text-decoration:none; color:inherit;">
-    <div style="width:260px; border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
+    <div style="width:200px; border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img 
         src="./assets/solidarizze.png" 
         alt="Solidarizze" 
