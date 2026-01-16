@@ -42,6 +42,40 @@ My work focuses on delivering robust, efficient, and scalable solutions for the 
 <br />
 
 #
- 
+
+### 🧑‍💻 My Projects
+
+<div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
+
+  <!-- Card 1 -->
+  <a href="https://www.portfolioelias.com" style="text-decoration:none; color:inherit;">
+    <div style="width:260px; border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
+      <img 
+        src="./assets/portfolio.jpeg" 
+        alt="Portfolio Elias" 
+        style="width:100%; border-radius:8px;"
+      />
+      <h3 align="center" style="margin-top:10px;">
+        Portfolio
+      </h3>
+    </div>
+  </a>
+
+  <!-- Card 2 -->
+  <a href="https://www.portfolioelias.com" style="text-decoration:none; color:inherit;">
+    <div style="width:260px; border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
+      <img 
+        src="./assets/solidarizze.png" 
+        alt="Solidarizze" 
+        style="width:100%; border-radius:8px;"
+      />
+      <h3 align="center" style="margin-top:10px;">
+        Solidarizze
+      </h3>
+    </div>
+  </a>
+
+</div>
+
 
 
