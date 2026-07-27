@@ -1,74 +1,62 @@
-<h2>🖖 Welcome!</h2>
+<h1 align="center">🖖 Welcome!</h1>
 
-My work focuses on delivering robust, efficient, and scalable solutions for the financial sector. I specialize in backend development, integrating advanced APIs and web services with cloud computing technologies.
+<p align="center">
+  Backend engineer focused on building robust <strong>APIs</strong> and <strong>BFFs</strong> for <strong>digital channels</strong>
+  in the financial market — from <strong>Payments</strong> and <strong>Tax APIs</strong> to account-opening journeys.
+  Currently on the <strong>ESCROW team</strong> at an investment brokerage, working with escrow account operations
+  (largely fixed income), <strong>AWS cloud architecture</strong>, and performance optimization such as reducing
+  RCU/WCU consumption on DynamoDB.
+</p>
 
-<h2>🛠️ Key Skills</h2>
-<ul>
-  <li>
-    <strong>Backend Development:</strong>
-    API development using Node.js (Express.js, TypeScript) and Java (Spring Boot), following SOLID principles and applying clean architecture best practices.
-  </li>
-  <li>
-    <strong>Frontend Development:</strong>
-    Building user interfaces with Angular and Bootstrap, focusing on best practices and user experience.
-  </li>
-  <li>
-    <strong>Cloud Computing:</strong>
-    Leveraging core services from Azure and Google Cloud Platform (GCP) to build robust, scalable, and cost-effective applications.
-  </li>
-</ul>
+<p align="center">
+  I care about understanding the client's flow end-to-end — integrating systems, handling screen states and failures,
+  and ensuring <strong>compliance</strong>, reliable <strong>messaging</strong>, and <strong>observability</strong> —
+  so the final experience stays fluid, secure, and trustworthy.
+</p>
 
-
+<p align="center">
+  🔗 <a href="https://www.linkedin.com/in/monteiroelias/">LinkedIn</a> &nbsp;·&nbsp;
+  🌐 <a href="https://www.portfolioelias.com">Portfolio</a>
+</p>
 
 ---
 
-### 🧰 Languages and Tools
+## 🛠️ Key Skills
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+- **Backend Development:** API development primarily with Node.js — currently using NestJS and TypeScript — following SOLID principles and clean architecture best practices. Previous experience with Java (Spring Boot) in prior roles.
+- **Frontend Development:** Building UIs with React and React Micro Frontends (MFE), using Redux for state management as a single source of truth.
+- **Cloud & DevOps:** AZ-900 certified, working daily with AWS — Lambda, EKS, DynamoDB — and the Serverless Framework to build scalable, cost-efficient infrastructure.
 
-#
+---
 
-### 🧑‍💻 My Projects
+### 🎯 What I Do
 
-  <!-- Card 1 -->
-  <a href="https://www.portfolioelias.com" style="text-decoration:none; color:inherit;">
-      <img 
-        src="./assets/portfolio.jpeg" 
-        alt="Portfolio Elias" 
-        style="width:40%; border-radius:8px;"
-      />
-      <h3 style="margin-top:10px;">
-        Portfolio
-      </h3>
-  </a>
+- Build and evolve **APIs, BFFs, Workers, and Cron Jobs** that support the account-opening journey, with attention to performance, security, reliability, and maintainability.
+- Work on **transactional flows** involving validations, journey states, business rules, internal/external integrations, anti-fraud, biometrics, WebViews, and digital channels.
+- Implement integrations and **asynchronous flows** with attention to events, queues, retries, idempotency, traceability, and proper failure handling.
+- Take part in technical refinements, code reviews, solution discussions, and **production troubleshooting** using logs, metrics, traces, and observability tools.
+- Collaborate with Product, Design, QA, Data, and partner teams to turn complex business rules into simple, reliable experiences for the customer.
 
-  <!-- Card 2 -->
-  <a href="https://github.com/elias-mb3/solidarizze" style="text-decoration:none; color:inherit;">
-      <img 
-        src="./assets/solidarizze.png" 
-        alt="Solidarizze" 
-        style="width:40%; border-radius:8px;"
-      />
-      <h3 style="margin-top:10px;">
-        Solidarizze
-      </h3>
-  </a>
+---
 
+### 🧰 Languages & Tools
 
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" />
+<img align="left" alt="NestJS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
+<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" />
+<img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" />
+<br /><br />
 
+---
 
+### 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elias-mb3&hide_border=true" alt="GitHub Streak"/>
+</p>
